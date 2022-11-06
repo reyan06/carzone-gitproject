@@ -26,7 +26,7 @@ SECRET_KEY = 'z63l@xa_l*v7-!z#5#gm^347zqq!uci#00b2e6)3lztd00*#u&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['salty-temple-12522.herokuapp.com', 'carzoneapp.co', 'www.carzoneapp.co']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
